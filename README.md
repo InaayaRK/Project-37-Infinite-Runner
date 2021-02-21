@@ -1,1 +1,1 @@
-# Project-37-Infinite-Runner
+# Project 37
